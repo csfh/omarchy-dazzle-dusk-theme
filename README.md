@@ -43,13 +43,17 @@ Dusk is the dark counterpart to [Dazzle Dawn](https://github.com/csfh/omarchy-da
 
 ## Backgrounds
 
+All four wallpapers are lossless 8K UHD PNGs at 7680 × 4320.
+
 `omarchy-buck-dark` is the theme stag.
 
-The other wallpapers are photographs on [Unsplash](https://unsplash.com), used under the [Unsplash License](https://unsplash.com/license):
+The other wallpapers are adapted from images on [Unsplash](https://unsplash.com), used under the [Unsplash License](https://unsplash.com/license):
 
-- [`ember-pier`](backgrounds/ember-pier.jpg) by [Anders Jildén](https://unsplash.com/@andersjilden) ([photo](https://unsplash.com/photos/golden-hour-photography-of-docking-pier-on-body-of-water-uwbajDCODj4))
-- [`cyan-span`](backgrounds/cyan-span.jpg) by [Alex Knight](https://unsplash.com/@agk42) ([photo](https://unsplash.com/photos/skyline-photography-of-cityscape-Ys-DBJeX0nE))
-- [`signal-hall`](backgrounds/signal-hall.webp) by [Martin Martz](https://unsplash.com/@martz90) ([photo](https://unsplash.com/photos/a-group-of-multicolored-lines-on-a-black-background-DI0lpZocxl4))
+- [`ember-pier`](backgrounds/ember-pier.png) by [Anders Jildén](https://unsplash.com/@andersjilden) ([photo](https://unsplash.com/photos/golden-hour-photography-of-docking-pier-on-body-of-water-uwbajDCODj4))
+- [`cyan-span`](backgrounds/cyan-span.png) by [Alex Knight](https://unsplash.com/@agk42) ([photo](https://unsplash.com/photos/skyline-photography-of-cityscape-Ys-DBJeX0nE))
+- [`signal-hall`](backgrounds/signal-hall.png) by [Martin Martz](https://unsplash.com/@martz90) ([photo](https://unsplash.com/photos/a-group-of-multicolored-lines-on-a-black-background-DI0lpZocxl4))
+
+The stag was resized with its original details preserved. The other images were enhanced with AI and cropped to 16:9.
 
 ## License
 
